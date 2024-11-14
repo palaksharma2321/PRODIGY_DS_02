@@ -1,4 +1,4 @@
-# PRODIGY_DS_01
+# PRODIGY_DS_02
 
 Welcome to my submission for Task 2 of the Data Science Internship at Prodigy Infotech. In this task, I have performed Exploratory Data Analysis (EDA) on a dataset provided, focusing on exploration of the relationships between variables and identify trends and patterns in the data.
 
